@@ -1,1 +1,0 @@
-https://blog.domski.pl/stm32-hal-driver-for-lora-sx1278-wireless-module/
